@@ -31,7 +31,7 @@ Suggests:
 	      listviewer,
 	      maps,
 	      mvtnorm,
-	      nasapower,
+	      nasapower (>= 4.0.0),
 	      nloptr,
 	      raster,
 	      reactR,
